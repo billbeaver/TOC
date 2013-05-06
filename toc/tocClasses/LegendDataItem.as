@@ -1,8 +1,6 @@
 // ActionScript file
 package widgets.TOC.toc.tocClasses
-{
-	import com.esri.ags.renderers.Renderer;
-	
+{	
 	import flash.events.EventDispatcher;
 
 	[Bindable]

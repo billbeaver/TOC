@@ -1,6 +1,12 @@
 This is my TOC/Legend widget for Flex Viewer 3.x
 Initial Release: 12-1-2010
 
+Version 3.3 - May 6, 2013
+* Recompiled for Flex Viewer 3.3
+
+Version 3.2 - Mar 24, 2013
+* Recompiled for Flex Viewer 3.2
+
 Version 3.1.5 - Feb 4, 2013
 * Fixed issue with turning on or off sublayers of a group.
 
